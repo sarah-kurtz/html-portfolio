@@ -1,2 +1,2 @@
 # html-portfolio
-First attempt at an html website (Oct. 2023)
+My first attempt at an html website (Oct. 2023)
